@@ -7,7 +7,6 @@ A React-based interactive dashboard that visualizes hotel booking data through v
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Features
@@ -45,9 +44,6 @@ Make sure you have the following installed:
     npm start
 2. Open your browser and go to http://localhost:3000 to view the dashboard.
 3. Use the date range picker to filter data displayed in the charts.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Acknowledgments
 - [ApexCharts](https://apexcharts.com) for the charting library.
